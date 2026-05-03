@@ -1,0 +1,8 @@
+Enter your password: Adya@3896
+Password Analysis:
+Length >= 8: True
+Uppercase present: True
+Lowercase present: True
+Digit present: True
+Special character present: True
+Password Strength: Strong 💪
